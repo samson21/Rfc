@@ -1,0 +1,6 @@
+{
+  "name": "Rastafarian Family Center",
+  "description": "Unified management platform for the Rastafarian Family Center: Restaurant menu, event planning, and pledge/donation tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
